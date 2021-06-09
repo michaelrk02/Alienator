@@ -1,0 +1,8 @@
+/assets/
+
+/build/
+
+/generator/generator
+/generator/assets/maps/*
+!/generator/assets/maps/Directory
+
